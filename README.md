@@ -4,7 +4,7 @@ A minimal, ready-to-use template for Godot 4.4 projects using Rust with the `gde
 ## Prerequisites
 *   **Rust:** Latest stable version (install via [rustup](https://rustup.rs/)).
 *   **Godot Engine:** Version 4.4.x or later.
- GDExtension.
+
 *   **Important:** Ensure your development environment is correctly configured by following the **[Official Godot Rust Setup Guide](https://godot-rust.github.io/book/intro/setup.html)**. This template assumes a working `gdext` build environment.
 ## Quick Start
 1.  **Get the Template:**
@@ -27,4 +27,11 @@ This compiles your Rust code (e.g., `rust/src/lib.rs`) into a dynamic library fo
     *   Run the main scene (e.g., `main.tscn`) to see the example in action.
 
 
-For comprehensive `gdext` usage, refer to the [godot-rust book]
+For comprehensive `gdext` usage, refer to the [godot-rust book](https://godot-rust.github.io/book/).
+
+## Support ☕
+
+If this template got you building faster, a coffee keeps it updated for new Godot and gdext releases.
+
+<a href="https://buymeacoffee.com/uniqua"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="48"></a>
+
